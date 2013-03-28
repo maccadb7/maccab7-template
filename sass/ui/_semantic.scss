@@ -1,0 +1,37 @@
+// .page-semantic {
+//     @extend %grid;
+// }
+
+//     .content,
+//     .sub-content{
+//         @extend %grid__item;
+//         @extend %one-whole;
+//         @extend %lap-one-half;
+//     }
+
+//     .content{
+//         @extend %desk-two-thirds;
+//     }
+
+//     .sub-content{
+//         @extend %desk-one-third;
+//     }
+
+//     .page-semantic {
+//     @extend .grid;
+// }
+
+    .content,
+    .sub-content{
+        @extend .grid__item;
+        @extend .one-whole;
+        @extend .lap-one-half;
+    }
+
+    .content{
+        @extend .desk-two-thirds;
+    }
+
+    .sub-content{
+        @extend .desk-one-third;
+    }

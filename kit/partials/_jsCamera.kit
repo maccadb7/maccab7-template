@@ -1,0 +1,21 @@
+        <!-- Camera Slider -->
+        <script type='text/javascript' src='js/camera/jquery.min-ck.js'></script>
+        <script type='text/javascript' src='js/camera/jquery.mobile.customized.min-ck.js'></script>
+        <script type='text/javascript' src='js/camera/jquery.easing.1.3-ck.js'></script>
+        <script type='text/javascript' src='js/camera/camera.min-ck.js'></script>
+
+        <script>
+                jQuery(function(){
+
+                    jQuery('#camera_wrap_1').camera({
+                        thumbnails: true
+                    });
+
+                    jQuery('#camera_wrap_2').camera({
+                        height: '500px',
+                        loader: 'bar',
+                        pagination: false,
+                        thumbnails: true
+                    });
+                });
+            </script>

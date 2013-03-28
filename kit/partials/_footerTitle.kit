@@ -1,0 +1,22 @@
+<div class="grid">
+	<div class="grid__item one-whole islet">
+
+		<p class="smallprint text--center contact">&copy;
+		<?php
+			$startYear = 2013;
+			$thisYear = date('Y');
+			if ($startYear == $thisYear) {
+				echo $startYear;
+			} else {
+			echo "{$startYear}&#8211;{$thisYear}";
+			}
+			?>&nbsp;<!--$companyNameFull-->&nbsp;All Rights Reserved<br>Site by&nbsp;<a rel="external" href="http://www.agraphicnature.com/">AGN</a>
+		</p>
+
+	</div>
+</div>
+<!-- Javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>

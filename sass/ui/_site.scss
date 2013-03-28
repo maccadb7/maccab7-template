@@ -1,0 +1,59 @@
+body {
+	background-color:#A4BEDB;
+}
+
+
+.page {
+	@include font-size(16px);
+	max-width: 1200px;
+	margin: auto;
+	padding: $base-spacing-unit;
+	background-color:#F5F5F5 ;
+}
+
+.block a{
+	background-color: yellow;
+	border-left:1px solid #999;
+}
+
+.block li:first-child a{
+    border-left:none;
+}
+
+.btn {
+	background-color: grey;
+}
+
+/**
+ * Positive actions; e.g. sign in, purchase, submit, etc.
+ */
+.btn--positive{
+    background-color:#4A993E;
+    color:#fff;
+}
+
+/**
+ * Negative actions; e.g. close account, delete photo, remove friend, etc.
+ */
+.btn--negative{
+    background-color:#b33630;
+    color:#fff;
+}
+
+/**
+ * Inactive, disabled buttons.
+ *
+ * 1. Make the button look like normal text when hovered.
+ */
+.btn--inactive,
+    .btn--inactive:hover,
+    .btn--inactive:active,
+    .btn--inactive:focus{
+        background-color:#ddd;
+        color:#777;
+        cursor:text;            /* [1] */
+    }
+.island,
+.islet {
+	background-color: brown;
+}

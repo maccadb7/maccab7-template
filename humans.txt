@@ -1,0 +1,24 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <name> -- <role> -- <twitter>
+    Ian McGrory -- Lead programmer -- @ianmcgrory
+    Mark Walling -- Designer --
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr, Inuit.css, Typeplate, Codekit, Sass
+    http://responsive-slides.viljamis.com
+    http://www.pixedelic.com/plugins/camera/#
+
+# REMINDER
+
+Remember to insert output paths in Codekit on .kit pages to .php unless you want to keep .html
+
