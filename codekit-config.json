@@ -288,24 +288,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/kit\/partials\/_nav.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/kit\/partials\/_nav.kit",
-      "outputAbbreviatedPath" : "\/Users\/maccadb7_MP\/Dropbox\/Website_Development\/htdocs\/frameworks\/_nav.html",
-      "fileType" : 65536
-    },
-    "\/css\/normalize.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/normalize.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/images\/camera\/images\/patterns\/overlay9.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -316,6 +298,24 @@
       "outputAbbreviatedPath" : "\/images\/camera\/images\/patterns\/overlay9.png",
       "initialSize" : 926,
       "fileType" : 8192
+    },
+    "\/css\/normalize.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/normalize.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/kit\/partials\/_nav.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/kit\/partials\/_nav.kit",
+      "outputAbbreviatedPath" : "\/Users\/maccadb7_MP\/Dropbox\/Website_Development\/htdocs\/frameworks\/_nav.html",
+      "fileType" : 65536
     },
     "\/images\/icons\/apple-touch-icon copy.png" : {
       "ignoreWasSetByUser" : 0,
