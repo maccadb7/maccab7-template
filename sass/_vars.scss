@@ -43,31 +43,31 @@ $base-ui-color:     #ccc!default;
  * and introducing objects and abstractions is as simple as switching the
  * following variables to `true`.
  */
-$use-grids:         true;
+$use-grids:         false;
 $use-flexbox:       false;
-$use-columns:       true;
-$use-nav:           true;
-$use-options:       true;
-$use-pagination:    true;
-$use-breadcrumb:    true;
-$use-media:         true;
-$use-marginalia:    true;
-$use-island:        true;
+$use-columns:       false;
+$use-nav:           false;
+$use-options:       false;
+$use-pagination:    false;
+$use-breadcrumb:    false;
+$use-media:         false;
+$use-marginalia:    false;
+$use-island:        false;
 $use-block-list:    false;
-$use-matrix:        true;
-$use-split:         true;
+$use-matrix:        false;
+$use-split:         false;
 $use-this-or-this:  false;
-$use-link-complex:  true;
-$use-flyout:        true;
+$use-link-complex:  false;
+$use-flyout:        false;
 $use-arrows:        false;
-$use-sprite:        true;
-$use-icon-text:     true;
-$use-beautons:      true;
-$use-lozenges:      true;
-$use-rules:         true;
-$use-stats:         true;
-$use-greybox:       true;
-$use-batch:         true;
+$use-sprite:        false;
+$use-icon-text:     false;
+$use-beautons:      false;
+$use-lozenges:      false;
+$use-rules:         false;
+$use-stats:         false;
+$use-greybox:       false;
+$use-batch:         false;
 
 
 
