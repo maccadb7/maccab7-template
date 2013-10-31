@@ -27,7 +27,7 @@ Choose one of the following options:
 ## Features
 
 * HTML5 ready. Use the new elements with confidence.
-* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
+* Cross-browser compatible (Chrome, Firefox, IE8+, Opera, Safari).
 * Designed with progressive enhancement in mind.
 * Includes [Normalize.css](http://necolas.github.com/normalize.css/) for CSS
   normalizations and common bug fixes.
@@ -38,7 +38,7 @@ Choose one of the following options:
 * Useful CSS helpers.
 * Default print CSS, performance optimized.
 * Protection against any stray `console.log` causing JavaScript errors in
-  IE6/7.
+  older browsers.
 * An optimized Google Analytics snippet.
 * Apache server caching, compression, and other configuration defaults for
   Grade-A performance.
@@ -46,18 +46,19 @@ Choose one of the following options:
 * "Delete-key friendly." Easy to strip out parts you don't need.
 * Extensive inline and accompanying documentation.
 
+[HTML5 Boilerplate v4 provides legacy browser
+support](https://github.com/h5bp/html5-boilerplate/tree/v4) (IE 6+, Firefox
+3.6+, Safari 4+), but is no longer actively developed.
 
 ## Documentation
 
-Take a look at the [documentation table of
-contents](/h5bp/html5-boilerplate/blob/master/doc/TOC.md). This
+Take a look at the [documentation table of contents](doc/TOC.md). This
 documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation
-you want to write about your project.
+offline reading and provides a useful starting point for any documentation you
+want to write about your project.
 
 
 ## Contributing
 
-Anyone and everyone is welcome to
-[contribute](/h5bp/html5-boilerplate/blob/master/CONTRIBUTING.md). Hundreds
-of developers have helped make the HTML5 Boilerplate what it is today.
+Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
+developers have helped make the HTML5 Boilerplate what it is today.
